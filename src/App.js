@@ -38,7 +38,7 @@ const hobbyLike = [
     id: 5,
     name: 'handball',
     image: 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.YpbxajsbfCkLwcKtegHx0QHaE8%26pid%3DApi&f=1',
-    rating: 4.4
+    rating: 4.3
   }
 ];
 
